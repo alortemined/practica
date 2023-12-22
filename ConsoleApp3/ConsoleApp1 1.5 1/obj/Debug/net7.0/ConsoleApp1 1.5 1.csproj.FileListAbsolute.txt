@@ -1,0 +1,17 @@
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\bin\Debug\net7.0\ConsoleApp1 1.5 1.exe
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\bin\Debug\net7.0\ConsoleApp1 1.5 1.deps.json
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\bin\Debug\net7.0\ConsoleApp1 1.5 1.runtimeconfig.json
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\bin\Debug\net7.0\ConsoleApp1 1.5 1.dll
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\bin\Debug\net7.0\ConsoleApp1 1.5 1.pdb
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.csproj.AssemblyReference.cache
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.AssemblyInfoInputs.cache
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.AssemblyInfo.cs
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.csproj.CoreCompileInputs.cache
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.csproj.CopyComplete
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.dll
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\refint\ConsoleApp1 1.5 1.dll
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.pdb
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ConsoleApp1 1.5 1.genruntimeconfig.cache
+C:\Users\khali\AppData\Local\JetBrains\Rider2023.3\projects\ConsoleApp3\ConsoleApp1 1.5 1\obj\Debug\net7.0\ref\ConsoleApp1 1.5 1.dll

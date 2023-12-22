@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XM7bcWIyFI3TPyigkZwFaSRqbYoJX8wcx9EMmGapKSvP2tvmH8GCSLjEXt/Nii5MD8DiGR21zrEVisE4IA8a6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khali\\AppData\\Local\\JetBrains\\Rider2023.3\\projects\\ConsoleApp3\\ConsoleApp1 1.2 5\\ConsoleApp1 1.2 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khali\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
